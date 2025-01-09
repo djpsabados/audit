@@ -1,4 +1,7 @@
 # Read Me
+
+Hashes of the script:
+
 This script automates several modes of the lynis tool. These modes are 
   - audit system
   - audit system --pentest
