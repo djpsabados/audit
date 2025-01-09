@@ -5,7 +5,7 @@ Hashes of the script:
 - SHA-1: bcf5b0d885fe4702e99781517a936546a1f8ab6e
 - SHA-256: 9d540a9c9482c55abed05a15baf5f9df210d65ec87bddfa4bed958eecfdc501e
 
-This script automates several modes of the lynis tool. These modes are 
+This script automates several modes of the lynis tool. These modes are:
   - audit system
   - audit system --pentest
   - audit system --forensics
